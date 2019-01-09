@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_52.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_52.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_54.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_54.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_56.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_56.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_57.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_57.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_58.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_58.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_59.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_59.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_00.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_00.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_01.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_01.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_06.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_06.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_08.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_08.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36288" started-at="2018-12-17T06:38:33Z" finished-at="2018-12-17T06:39:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36288" started-at="2018-12-17T06:38:33Z" finished-at="2018-12-17T06:39:10Z">
+      <class name="com.TicFramework.matalan.testScripts.customerTest.NewOrder_Test">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.TicFramework.matalan.testScripts.customerTest.NewOrder_Test@5c5a1b69]" name="beforeSuite" is-config="true" duration-ms="103" started-at="2018-12-17T12:08:33Z" finished-at="2018-12-17T12:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.TicFramework.matalan.testScripts.customerTest.NewOrder_Test@5c5a1b69]" name="beforeTest" is-config="true" duration-ms="3731" started-at="2018-12-17T12:08:33Z" finished-at="2018-12-17T12:08:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.TicFramework.matalan.testScripts.customerTest.NewOrder_Test@5c5a1b69]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2018-12-17T12:08:37Z" finished-at="2018-12-17T12:08:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.TicFramework.matalan.testScripts.customerTest.NewOrder_Test.NewOrderTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="NewOrderTest()[pri:0, instance:com.TicFramework.matalan.testScripts.customerTest.NewOrder_Test@5c5a1b69]" name="NewOrderTest" duration-ms="31491" started-at="2018-12-17T12:08:37Z" description="new order creation" finished-at="2018-12-17T12:09:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_52.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_52.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_54.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_54.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_56.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_56.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_57.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_57.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_58.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_58.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_59.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_08_59.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_00.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_00.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_01.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_01.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_06.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_06.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_08.png'><img src='C:\Users\user\eclipse-workspace\TicBiz\src\test\resources\screenShots\blank_17_12_2018_12_09_08.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- NewOrderTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.TicFramework.matalan.testScripts.customerTest.NewOrder_Test@5c5a1b69]" name="afterMethod" is-config="true" duration-ms="292" started-at="2018-12-17T12:09:09Z" finished-at="2018-12-17T12:09:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=NewOrderTest status=SUCCESS method=NewOrder_Test.NewOrderTest()[pri:0, instance:com.TicFramework.matalan.testScripts.customerTest.NewOrder_Test@5c5a1b69] output=captureScreen method called]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.TicFramework.matalan.testScripts.customerTest.NewOrder_Test@5c5a1b69]" name="afterTest" is-config="true" duration-ms="752" started-at="2018-12-17T12:09:09Z" finished-at="2018-12-17T12:09:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.TicFramework.matalan.testScripts.customerTest.NewOrder_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
